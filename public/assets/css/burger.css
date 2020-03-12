@@ -23,7 +23,7 @@ h1 {
 }
 
 hr {
-    margin: 80px 25px 45px 25px;
+    margin: 60px 25px 0px 25px;
 }
 
 .col-5 {
@@ -49,7 +49,3 @@ hr {
     margin: 25px;
 }
 
-/* .footer {
-    background-color: lightgray;
-    height: 500px;
-} */
