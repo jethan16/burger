@@ -1,0 +1,55 @@
+body {
+    background-color: whitesmoke;
+}
+
+.jumbotron {
+    text-align: center;
+    background: linear-gradient(45deg, #6CB33F 35%, rgb(176, 241, 136) 35%, rgb(176, 241, 136) 65%, #6CB33F 65%);
+}
+
+.burgerLogo:hover {
+    transition: .5s ease-in-out;
+    /* background-color: red; */
+    transform: scale(1);
+}
+.burgerLogo:hover {
+    /* transition: .5s ease-in-out; */
+    /* background-color: red; */
+    transform: scale(1.05);
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+hr {
+    margin: 80px 25px 45px 25px;
+}
+
+.col-5 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #6CB33F; 
+    border: 1px groove #6CB33F;
+}
+
+.btn-primary:hover {
+    background-color: rgb(88, 146, 52); 
+    border: 1px groove rgb(66, 109, 39);
+}
+
+.addBurger {
+    margin: 25px;
+}
+
+.submit {
+    margin: 25px;
+}
+
+/* .footer {
+    background-color: lightgray;
+    height: 500px;
+} */
